@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zemola/github-action-test/issues"
   },
-  "homepage": "https://github.com/zemola/github-action-test#readme"
+  "homepage": "https://github.com/zemola/github-action-test#readme",
+  "dependencies": {
+    "lint": "^0.8.19"
+  }
 }
