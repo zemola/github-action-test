@@ -1,6 +1,6 @@
 name: Testing Using Lint
 on:
-  push
+  [push, pull_request]
   pull_request:
     types: [opened, reopened]
 jobs:
